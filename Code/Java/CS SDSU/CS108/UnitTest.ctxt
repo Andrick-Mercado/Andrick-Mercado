@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=UnitTest
-comment0.text=\r\n\ tests\ all\ major\ methods,\ or\ atleast\ the\ methods\r\n\ that\ might\ fail\ when\ called\r\n\r\n\ @author\ (Andrick\ Mercado)\r\n\ @version\ (5/4/2020)\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2

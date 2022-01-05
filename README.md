@@ -5,4 +5,6 @@
 If interested on my work feel free to reach me via email below
 - 📫 How to reach me by email (andrickmercado17@gmail.com) or https://andrick-mercado.carrd.co
 
+THE ABOVE FOLDER CONTAINS ALL THE WORK I HAVE DONE DURING MY TIME AT SDSU, (SMALL WORK WAS NOT INCLUDED)
+
 

@@ -9,5 +9,5 @@ THE ABOVE FOLDER CONTAINS ALL THE WORK I HAVE DONE DURING MY TIME AT SDSU, (SMAL
 
 
 Here is a website I made during high school that focuses on the basics of java
-- https://sites.google.com/view/computer-science-review/java?authuser=0 
+- https://sites.google.com/view/computer-science-review/home
 

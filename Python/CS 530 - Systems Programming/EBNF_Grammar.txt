@@ -1,0 +1,24 @@
+Integer digit{digit}
+op  {and, or, nand, xor, xnor, F}
+exp   {<, >, <=, >=, =, !=, not}
+
+Parse E
+E ->  T-E | <exp> E | T
+
+Parse T
+T ->  F <op> T | F
+
+Parse F
+F ->  Integer | (E)
+
+
+--------------------------------------------
+I split E and T as follows:
+
+Parse E
+E_Left  ->  T-E | <exp> 
+E_Right ->  -E |  E | T
+
+Parse T
+T_Left  ->  F 
+T_Right ->  <op> T | F

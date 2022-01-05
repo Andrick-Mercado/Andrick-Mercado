@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Savings
+comment0.text=\ Savings\r\n\ createss\ savings\ object\ whencalled\ with\ no\ parameters,\ calculates\ interest\ of\ savings,\ extends\ deposit,\r\n\ has\ withdrawmethod\ which\ limits\ three\ withdraws\ per\ day,\ and\ updates\ balance\ if\ amount\ is\ valid\r\n\ @\ Andrick\ Mercado\r\n\ @\ 3/20/2020\r\n
+comment1.params=
+comment1.target=Savings()
+comment2.params=amount
+comment2.target=boolean\ withdrawMoney(int)
+comment2.text=\r\n\ withdrawMoney\r\n\ if\ money\ to\ be\ withdrawed\ is\ negative\ it\ prints\ invalid\ amount\r\n\ else\ it\ verifies\ sufficient\ funds\ if\ not\ prints\ not\ enought\ balacnce\ or\ if\ withdraws\ are\ equal\ to\ 3\r\n\ then\ prints\ withdrawals\ limit\ exceeded\ as\ only\ 3\ are\ permitted,\ else\ prints\ upadated\ balance\ and\ remaining\ withdrawals\r\n\ returns\ true\ if\ withdrawal\ is\ dne\ if\ not\ then\ returns\ false\r\n\ @param\ [int\ amount\ of\ money\ to\ be\ withdrawed]\r\n\ @return\ [boolean]\r\n
+comment3.params=
+comment3.target=int\ calcInterest()
+comment3.text=\r\n\ calcInterest\r\n\ calculates\ based\ on\ nums\ given\ by\ instructions\ ;/\r\n\ @return\ int\ basically\ interest\ of\ savings\r\n
+comment4.params=
+comment4.target=boolean\ addInterest()
+comment4.text=\r\n\ addInterest\r\n\ if\ its\ not\ end\ of\ month\ then\ returns\ false\ else\ sets\ accoutn\ balance\ and\ returns\ true\r\n\ @return\ boolean\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=account
+comment6.target=int\ getAccountID(Account)
+numComments=7

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Bank
+comment0.text=\r\n\ Concrete\ Class\:\ Bank\r\n\ Creates\ a\ bank\ object\ if\ called\ witth\ no\ parameters,\ keeps\ track\ of\ current\ month\r\n\ getter\ method\ for\ month,\ two\ methods\ that\ return\ ints\r\n\ @author\r\n\ @date\r\n\ CS\ 108\ Section\ X\ (1\ or\ 3)\r\n
+comment1.params=
+comment1.target=Bank()
+comment2.params=
+comment2.target=int\ getMonth()
+comment3.params=
+comment3.target=int\ nextMonth()
+comment3.text=\r\n\ nextMonth\r\n\ if\ month\ end\ is\ false\ then\ is\ not\ the\ end\ of\ the\ month\ and\ returns\ -1\\\r\n\ else\ add\ months\ +1,\ and\ if\ month\ is\ 11\ or\ decemver\ it\ resets\ month\ to\ 0\ and\ ismonthend\ is\ false\ ad\ returns\ month\r\n\ if\ the\ statements\ is\ false\ then\ ismonth\ -\ false\ and\ returns\ current\ month\ \r\n\ @return\ [int\ return\ month]\r\n
+comment4.params=
+comment4.target=int\ endOfMonth()
+comment4.text=\r\n\ endOfMonth\r\n\ if\ endofmonth\ true\ print\ its\ end\ of\ month\ else\ is\ makes\ endsofmonth\ to\ true\ and\ \r\n\ prints\ its\ end\ of\ month\r\n\ @return\ [int\ month\ number]\r\n
+numComments=5

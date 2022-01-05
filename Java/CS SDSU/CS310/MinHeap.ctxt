@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=MinHeap
+comment1.params=maxsize
+comment1.target=MinHeap(int)
+comment10.params=
+comment10.target=void\ minHeap()
+comment11.params=
+comment11.target=int\ remove()
+comment12.params=arg
+comment12.target=void\ main(java.lang.String[])
+comment2.params=pos
+comment2.target=int\ parent(int)
+comment3.params=pos
+comment3.target=int\ leftChild(int)
+comment4.params=pos
+comment4.target=int\ rightChild(int)
+comment5.params=pos
+comment5.target=boolean\ isLeaf(int)
+comment6.params=fpos\ spos
+comment6.target=void\ swap(int,\ int)
+comment7.params=pos
+comment7.target=void\ minHeapify(int)
+comment8.params=element
+comment8.target=void\ insert(int)
+comment9.params=
+comment9.target=void\ print()
+numComments=13

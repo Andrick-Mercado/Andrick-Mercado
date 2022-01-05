@@ -1,0 +1,1 @@
+Utilizing the KNN algorithm I graphed the separation of the data given in the excel sheet

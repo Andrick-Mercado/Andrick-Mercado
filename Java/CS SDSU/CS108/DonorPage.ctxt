@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=DonorPage
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\ \r\n\ main\r\n\ setup\ the\ user\ interface,\ or\ the\ input\ from\ the\ user,\ collects\ it\r\n\ and\ sends\ it\ to\ other\ methods\ that\ run\ the\ information\r\n
+comment2.params=input\ needOf
+comment2.target=void\ hospitalNeedMost(java.util.Scanner,\ java.lang.String)
+comment2.text=\r\n\ hospitalNeedMost\r\n\ basically\ looks\ for\ the\ item,\ and\ \r\n\ executes\ the\ loop\ that\ will\ find\ the\ \r\n\ hospital\ that\ most\ needs\ that\ item\r\n\ @param\ [Scanner\ input\:\ brings\ the\ same\ scanner\ from\ the\ main\ method]\ \r\n\ @param\ [String\ needOf\:\ the\ item\ that\ is\ being\ donated]\r\n
+comment3.params=option\ input
+comment3.target=void\ runOption(int,\ java.util.Scanner)
+comment3.text=\r\n\ runOption\r\n\ takes\ user\ input\ and\ runs\ runOption2\r\n\ with\ valid\ information\ about\ the\ users\ input\r\n\ @param\ [int\ option\:\ is\ from\ main\ method\ determines\ what\ is\ being\ to\ be\ donated]\ \r\n\ @param\ [the\ parameter\ it\ takes\ second\ and\ so\ on]\r\n
+comment4.params=input\ option2\ needOf
+comment4.target=void\ runOption2(java.util.Scanner,\ int,\ java.lang.String)
+comment4.text=\r\n\ runOption2\r\n\ executes\ both\ options\ \r\n\ calls\ according\ methods\r\n\ @param\ [Scanner\ input\:\ takes\ the\ scanner\ from\ main]\ \r\n\ @param\ [int\ option2\:\ currently\ 0]\r\n\ @param\ [String\ needOf\:\ what\ is\ going\ to\ be\ donated]\r\n
+comment5.params=hospitalName\ input\ needOf
+comment5.target=void\ runOption3(java.lang.String,\ java.util.Scanner,\ java.lang.String)
+comment5.text=\r\n\ runOption3\r\n\ if\ hospital\ that\ is\ given\ is\ not\ found\ in\ the\ hashmap\r\n\ it\ doesnt\ change\ any\ hashmap\ values\r\n\ @param\ [String\ hospitalName\:\ hospital\ name]\ \r\n\ @param\ [Scanner\ input\:\ from\ main\ method]\r\n\ @param\ [String\ needOf\:\ whats\ going\ to\ be\ donated]\r\n
+comment6.params=input
+comment6.target=void\ runOption6(java.util.Scanner)
+comment6.text=\r\n\ runOption6\r\n\ prompts\ user,\ what\ display\ they\ want,\ either\ none\ '\r\n\ sorted\ or\ none\ sorted\ information\r\n\ @param\ [Scanner\ input\:\ scanner\ from\ main]\r\n
+comment7.params=
+comment7.target=void\ randomGeneratedData()
+comment7.text=\r\n\ randomGeneratedData()\r\n\ for\ this\ casse\ data\ is\ random,\ thus\ we\ dont\ have\ real\ information,\r\n\ if\ real\ information\ was\ going\ to\ be\ implemented,\ could\ be\ with\ more\ methods\ \r\n\ potentially\ reading\ from\ a\ file\ that\ has\ the\ information\r\n\ but\ for\ this\ case\ information\ is\ made\ up\r\n
+numComments=8

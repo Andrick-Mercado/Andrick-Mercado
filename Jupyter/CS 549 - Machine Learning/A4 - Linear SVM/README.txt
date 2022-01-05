@@ -1,0 +1,1 @@
+lINEAR GDC from scratch with corresponding graph and output

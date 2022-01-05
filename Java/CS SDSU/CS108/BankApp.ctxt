@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BankApp
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ printMenu()
+comment2.text=\r\n\ printMenu\ \r\n\ basically\ prints\ out\ the\ menu\ so\ the\ user\ can\r\n\ select\ a\ valid\ option\r\n
+numComments=3

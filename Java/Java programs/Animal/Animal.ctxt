@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Animal
+comment1.params=
+comment1.target=Animal()
+comment1.text=CONSTRUCTORS\ TO\ BUILD\ THE\ ANIMAL\ OBJECTS
+comment2.params=bdate\ s\ w\ wild
+comment2.target=Animal(int,\ java.lang.String,\ double,\ boolean)
+comment3.params=
+comment3.target=int\ getBirthdate()
+comment3.text=ACCESSOR\ METHODS\ *
+comment4.params=
+comment4.target=java.lang.String\ getSound()
+comment5.params=
+comment5.target=double\ getWeightPounds()
+comment6.params=
+comment6.target=boolean\ getIsWild()
+comment7.params=w
+comment7.target=void\ setWeightPounds(double)
+comment8.params=ound
+comment8.target=void\ setSound(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

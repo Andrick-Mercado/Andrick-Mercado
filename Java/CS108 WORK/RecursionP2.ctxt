@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=RecursionP2
+comment1.params=array
+comment1.target=RecursionP2(int[])
+comment1.text=\ \ \r\n\ \ public\ static\ void\ main(String[]args)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ int\ []\ y\ \=\ \ {1,2,3,4,5,6};\r\n\ \ \ \ \ \ \ \ RecursionP2\ c\ \=\ new\ RecursionP2(y);\r\n\ \ \ \ \ \ \ \ ArrayList\ <Integer>\ v\ \=\ new\ ArrayList<Integer>();\r\n\ \ \ \ \ \ \ \ v.add(684);\r\n\ \ \ \ \ \ \ \ v.add(72);\r\n\ \ \ \ \ \ \ \ v.add(516);\ \ \ //\ TESTER\ \r\n\ \ \ \ \ \ \ \ v.add(4);\r\n\ \ \ \ \ \ \ \ v.add(5);\r\n\ \ \ \ \ \ \ \ //v.add(6);\r\n\ \ \ \ \ \ \ \ //v.add(7);\r\n\ \ \ \ \ \ \ \ \ //\ System.out.println(c.reverseList(v)\ );\ \ \r\n\ \ \ \ \ \ \ \ \ //\ System.out.println(c.reverseList());\ \ \ \r\n\ \ \ \ \ \ \ \ \ //\ System.out.println(c.toOddList()\ );\r\n\ \ \ \ \ \ \ \ \ \ System.out.println(c.toOddList(v)\ );\r\n}\ \ \ \ \ \ \ \ \ //\ \ *
+comment10.params=original
+comment10.target=java.util.ArrayList\ copyArray(java.util.ArrayList)
+comment10.text=METHOD\ HELPER\ to\ create\ copys\ -\ does\ not\ cause\ error*
+comment2.params=original
+comment2.target=java.util.ArrayList\ reverseList(java.util.ArrayList)
+comment3.params=
+comment3.target=java.util.ArrayList\ reverseList()
+comment4.params=original
+comment4.target=java.util.ArrayList\ toOddList(java.util.ArrayList)
+comment5.params=
+comment5.target=java.util.ArrayList\ toOddList()
+comment6.params=original
+comment6.target=java.util.ArrayList\ toEvenRevList(java.util.ArrayList)
+comment7.params=
+comment7.target=java.util.ArrayList\ toEvenRevList()
+comment8.params=original
+comment8.target=int\ retPenultimate(java.util.ArrayList)
+comment9.params=
+comment9.target=java.util.ArrayList\ getList()
+numComments=11

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Node
+comment1.params=key\ value
+comment1.target=Node(java.lang.Comparable,\ java.lang.Object)
+comment10.params=
+comment10.target=Node\ getRightChild()
+comment11.params=rightChild
+comment11.target=void\ setRightChild(Node)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=n
+comment3.target=int\ compareTo(Node)
+comment4.params=
+comment4.target=java.lang.Comparable\ getKey()
+comment5.params=key
+comment5.target=void\ setKey(java.lang.Comparable)
+comment6.params=
+comment6.target=java.lang.Object\ getValue()
+comment7.params=value
+comment7.target=void\ setValue(java.lang.Object)
+comment8.params=
+comment8.target=Node\ getLeftChild()
+comment9.params=leftChild
+comment9.target=void\ setLeftChild(Node)
+numComments=12

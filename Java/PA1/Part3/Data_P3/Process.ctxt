@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Process
+comment1.params=name\ time\ priority
+comment1.target=Process(java.lang.String,\ int,\ int)
+comment2.params=obj
+comment2.target=int\ compareTo(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=
+comment6.target=float\ getTime()
+comment7.params=time
+comment7.target=void\ setTime(float)
+comment8.params=
+comment8.target=int\ getPriority()
+comment9.params=priority
+comment9.target=void\ setPriority(int)
+numComments=10

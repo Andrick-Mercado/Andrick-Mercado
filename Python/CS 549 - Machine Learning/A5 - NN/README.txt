@@ -1,0 +1,1 @@
+Made use of Neural Networks to detect if given binary inputs, output either 0 or 1

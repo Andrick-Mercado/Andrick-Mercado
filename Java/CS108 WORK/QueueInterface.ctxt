@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=QueueInterface
+comment0.text=\r\n\ Queue\ Interface\r\n\ CS\ 108\ Spring\ 2020\r\n\ @author\ Andrick\ Mercado\r\n
+comment1.params=inserted
+comment1.target=boolean\ enQueue(int)
+comment1.text=\r\n\ The\ enQueue\ method\ inserts\ an\ element\r\n\ in\ the\ Queue\ and\ return\ true,\ if\ successful\r\n\ The\ element\ is\ always\ entered\ at\ the\ end\r\n\ of\ the\ queue.\r\n\ \r\n\ @param\ Integer\ value\ to\ be\ inserted\r\n\ @return\ boolean\ true,\ if\ successful,\ false\ otherwise\r\n
+comment2.params=
+comment2.target=java.lang.Integer\ deQueue()
+comment2.text=\r\n\ The\ deQueue\ deletes\ an\ element\ in\ the\r\n\ Queue,\ and\ returns\ the\ element.\r\n\ The\ element\ is\ always\ removed\ from\ the\r\n\ front\ of\ the\ queue.\ \r\n\ \r\n\ @return\ Integer\ value\ of\ the\ removed\ element\r\n
+comment3.params=
+comment3.target=java.lang.Integer\ peek()
+comment3.text=\r\n\ The\ peek\ method\ returns\ the\ head\ (or\ the\r\n\ first\ element)\ of\ the\ Queue\r\n\ \r\n\ @return\ Integer\ value\ of\ the\ first\ element\r\n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\r\n\ The\ isEmpty()\ method\ returns\ true\ if\ the\r\n\ Queue\ is\ empty,\ false\ otherwise\r\n\ \r\n\ @return\ boolean\ true,\ if\ empty,\ false\ otherwise\r\n
+numComments=5

@@ -1,0 +1,7 @@
+Learning Outcomes:
+In this project, I learned how to develop low-level language techniques, 
+or more specifically create grammar rules based on EBNF grammar rules, 
+it was really interesting to apply these rules into code, 
+I managed to get all the points with my current solution at least the ones that were displayed.
+I also learn how to add more rules to them not just the ones given,
+ as I would just need to implement a new list and rules which shouldn’t be that hard.

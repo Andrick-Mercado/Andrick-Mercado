@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BogoSort
+comment1.params=fileName
+comment1.target=BogoSort(java.lang.String)
+comment1.text=\r\n\ BogoSort\r\n\ constructor\:\ \ It\ calls\ the\ readFromFile\ method\ \r\n\ with\ the\ given\ fileName,\ prints\ the\ initial\ \r\n\ list\ of\ integers\ using\ the\ printList\ function,\ \r\n\ calls\ the\ sort\ function\ which\ would\ sort\ the\ list\ \r\n\ with\ the\ implemented\ BogoSort\ and\ prints\ out\ \r\n\ the\ sorted\ list\ by\ again\ calling\ the\ printList\ function.\r\n\ @param\ [int\ length]\r\n
+comment2.params=fileName
+comment2.target=void\ readFromFile(java.lang.String)
+comment2.text=\r\n\ readFromFile\r\n\ Accepts\ the\ fileName\ of\ the\ file\ to\ be\ opened\ to\ get\ \r\n\ in\ the\ randomSeed\ and\ the\ list\ of\ integers\ to\ sort.\ \r\n\ Using\ File\ I/O\ learned\ in\ previous\ programs,\ the\ function\ \r\n\ should\ read\ in\ the\ values\ which\ would\ be\ in\ the\ following\ format,\r\n\ where\ the\ first\ line\ is\ the\ randomSeed\ to\ be\ used\ and\ the\ second\ line\r\n\ is\ the\ list\ of\ the\ integers\ to\ sort.\r\n\ @param\ [String\ fileName]\r\n
+comment3.params=
+comment3.target=void\ sort()
+comment3.text=\r\n\ sort\r\n\ While\ the\ inputay\ is\ not\ sorted\r\n\ \ \ \ Loop\ to\ check\ if\ inputay\ is\ sorted\ or\ not.\r\n\ \ \ \ if\ not,\ loop\ i\ from\ 0...n\ (exclusive)\r\n\ \ \ \ Using\ the\ Random\ object,\ generate\ a\ random\ int\ between\ 0\ to\ n\ (exclusive)\r\n\ \ \ \ Swap\ the\ inputay\ element\ at\ index\ i\ with\ the\ random\ index\ generated.\r\n\ \ \ \ Also,\ increment\ the\ number\ of\ runs\ i.e.\ the\ number\ of\ times\ you\ have\ \r\n\ \ \ \ created\ a\ new\ random\ list\ to\ see\ if\ it\ was\ sorted.\r\n
+comment4.params=
+comment4.target=void\ printList()
+comment4.text=\r\n\ printList\r\n\ prints\ the\ Integer\ inputay\ separated\ by\ commas\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

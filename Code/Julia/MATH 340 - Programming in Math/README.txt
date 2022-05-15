@@ -1,1 +1,0 @@
-In this class we learned about Julia and how it can beat python in some complex computations

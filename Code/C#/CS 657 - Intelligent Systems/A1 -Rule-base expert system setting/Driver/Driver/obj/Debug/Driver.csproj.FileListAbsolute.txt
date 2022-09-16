@@ -1,0 +1,7 @@
+C:\Users\andri\OneDrive\Documents\GitHub Files\Andrick-Mercado\Code\C#\CS 657 - Intelligent Systems\A1 -Rule-base expert system setting\Driver\Driver\bin\Debug\Driver.exe
+C:\Users\andri\OneDrive\Documents\GitHub Files\Andrick-Mercado\Code\C#\CS 657 - Intelligent Systems\A1 -Rule-base expert system setting\Driver\Driver\bin\Debug\Driver.pdb
+C:\Users\andri\OneDrive\Documents\GitHub Files\Andrick-Mercado\Code\C#\CS 657 - Intelligent Systems\A1 -Rule-base expert system setting\Driver\Driver\obj\Debug\Driver.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Documents\GitHub Files\Andrick-Mercado\Code\C#\CS 657 - Intelligent Systems\A1 -Rule-base expert system setting\Driver\Driver\obj\Debug\Driver.csproj.SuggestedBindingRedirects.cache
+C:\Users\andri\OneDrive\Documents\GitHub Files\Andrick-Mercado\Code\C#\CS 657 - Intelligent Systems\A1 -Rule-base expert system setting\Driver\Driver\obj\Debug\Driver.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Documents\GitHub Files\Andrick-Mercado\Code\C#\CS 657 - Intelligent Systems\A1 -Rule-base expert system setting\Driver\Driver\obj\Debug\Driver.exe
+C:\Users\andri\OneDrive\Documents\GitHub Files\Andrick-Mercado\Code\C#\CS 657 - Intelligent Systems\A1 -Rule-base expert system setting\Driver\Driver\obj\Debug\Driver.pdb

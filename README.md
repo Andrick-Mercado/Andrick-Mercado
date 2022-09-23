@@ -18,7 +18,8 @@
 
 #### Github Stats:
 
-![Andrick's github stats](https://github-readme-stats.vercel.app/api?username=andrick-mercado&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Andrick's github stats](https://github-readme-stats.vercel.app/api?username=andrick-mercado&count_private=true&theme=highcontrast&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrick-mercado&layout=compact&theme=highcontrast&hide=ShaderLab,HLSL)]
 
 Here is a website I made during high school that focuses on the basics of java
 - https://sites.google.com/view/computer-science-review/home

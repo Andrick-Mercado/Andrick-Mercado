@@ -1,11 +1,11 @@
 # Hi, Im Andrick Mercado! <img src="https://user-images.githubusercontent.com/1534150/172605845-b63b82dc-cbff-46f1-b4b0-41c7db605ce8.gif" width="30" alt="Waving hand animation">
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently studying at San Diego State University for a Computer Science degree
-- :grin: The above folder contains some of my work I did during my time at SDSU
+- :grin: The code folder under my main repo contains some of my work I did during my time at SDSU
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-Andrick-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrick-mercado/)
-[![itchdotio Badge](https://img.shields.io/badge/-Andrick-F06446?style=flat&labelColor=F06446&logo=itchdotio&logoColor=white)](https://www.linkedin.com/in/andrick-mercado/)
+[![itchdotio Badge](https://img.shields.io/badge/-Andrick-F06446?style=flat&labelColor=F06446&logo=itchdotio&logoColor=white)](https://andrick-mercado.itch.io/)
 [![Mail Badge](https://img.shields.io/badge/-Andrick-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:andrickmercado17@gmail.com)
 
 #### Resume:

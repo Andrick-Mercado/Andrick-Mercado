@@ -15,6 +15,7 @@
 ### Languages:
 [![C# Badge](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&labelColor=black&logo=csharp&logoColor=239120)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&labelColor=black&logo=java&logoColor=ED8B00)](#) [![C++ Badge](https://img.shields.io/badge/-c%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00599C)](#) [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=3776AB&logo=python&logoColor=FFFFFF)](#) [![C Badge](https://img.shields.io/badge/-C-00599C?style=for-the-badge&labelColor=black&logo=c&logoColor=00599C)](#) 
+
 ### Game Engines:
 [![Unity Badge](https://img.shields.io/badge/-unity-808080?style=for-the-badge&labelColor=black&logo=unity&logoColor=white)](#)
 [![UnrealEngine Badge](https://img.shields.io/badge/-Unreal&#32;Engine-808080?style=for-the-badge&labelColor=black&logo=unrealengine&logoColor=white)](#)
@@ -23,7 +24,6 @@
 
 ![Andrick's github stats](https://github-readme-stats.vercel.app/api?username=andrick-mercado&count_private=true&theme=highcontrast&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrick-mercado&layout=compact&theme=highcontrast&hide=ShaderLab,HLSL)
-
 
 Here is a website I made during high school that focuses on the basics of java
 - https://sites.google.com/view/computer-science-review/home

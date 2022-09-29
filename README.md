@@ -21,12 +21,14 @@
 [![UnrealEngine Badge](https://img.shields.io/badge/-Unreal&#32;Engine-808080?style=for-the-badge&labelColor=black&logo=unrealengine&logoColor=white)](#)
 
 #### Github Stats:
-
 ![Andrick's github stats](https://github-readme-stats.vercel.app/api?username=andrick-mercado&count_private=true&theme=highcontrast&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrick-mercado&layout=compact&theme=highcontrast&hide=ShaderLab,HLSL)
 
-Here is a website I made during high school that focuses on the basics of java
-- https://sites.google.com/view/computer-science-review/home
+<!--  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrick-mercado&layout=compact&theme=highcontrast&exclude_repo=LongTermGame6&hide=ShaderLab,HLSL,ASP.NET)
 
-<!-- *comment* --/>
-![visitors badge](https://visitor-badge.glitch.me/badge?page_id=andrick-mercado.andrick-mercado)
+#### Wakatime Stats:
+![Andrick's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andrick&theme=highcontrast)
+
+![Andrick's github stats](https://github-readme-stats.vercel.app/api?username=andrick-mercado&count_private=true&theme=highcontrast)
+
+![visitors badge](https://visitor-badge.glitch.me/badge?page_id=andrick-mercado.andrick-mercado) -->

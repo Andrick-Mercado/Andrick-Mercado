@@ -1,1 +1,0 @@
-This class was mostly learning python as well as markdown to make math look nice

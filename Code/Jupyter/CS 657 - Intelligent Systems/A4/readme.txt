@@ -1,0 +1,1 @@
+to run the Neural network again run all the cells in the jupyter notebook (ipynb)

@@ -9,7 +9,7 @@
 [![Mail Badge](https://img.shields.io/badge/-Andrick-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:andrickmercado17@gmail.com)
 
 #### Resume:
-- :paperclip: [My Resume](https://docs.google.com/document/d/1NzIuVymJB1AxnmTCS_Wprf9u6-O_Qa-7vnFpc8n5guA/edit?usp=sharing/)
+- :paperclip: [My Resume](https://drive.google.com/file/d/1rIMkUCai3HagRCYy6qas4SgdFNn33jot/view?usp=sharing/)
 ### Languages:
 [![C# Badge](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&labelColor=black&logo=csharp&logoColor=239120)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&labelColor=black&logo=java&logoColor=ED8B00)](#) [![C++ Badge](https://img.shields.io/badge/-c%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00599C)](#) 
